@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  font-family:'Poppins', sans-serif;
+  width:100%;
+}
+
+*{
+  background-color: #8BBE96;
+  width: 100%;
+  margin: 0 auto;
+  font-family:'Poppins', sans-serif;
+  box-sizing:border-box;
+}
