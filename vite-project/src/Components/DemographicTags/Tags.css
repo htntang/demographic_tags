@@ -94,7 +94,7 @@ header{
 
 .tag-studies{
     color: var(--gray0);
-    background:var(--red);
+    background:var(--red-dark);
 }
 
 .tag-race{
@@ -124,7 +124,7 @@ header{
 
 .tag-value{
     color:var(--gray0);
-    background:var(--pink-dark);
+    background:var(--red-light);
 }
 
 .tag-requirements{
